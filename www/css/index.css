@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+#h1 {
+  text-align: center;
+}
+
+#btn {
+  text-align: center;
+}
+
+#content1 {
+  text-align: center;
+}
+
+#st {
+  background-color: black;
+  color : white;
+  border: 0px;
+}
+
